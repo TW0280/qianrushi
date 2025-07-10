@@ -1,2 +1,2 @@
-# qianrushi
-用于嵌入式竞赛
+# 基于STM32H750VBT6的六轴机械臂码垛系统
+源码在master里面
